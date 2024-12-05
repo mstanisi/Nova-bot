@@ -4,7 +4,8 @@
 
 *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
 
-![Thumbnail of Hacker](thumbnail.png)
+
+<img loading="lazy" src="/sites/default/files/images/Wax-Header.jpg" width="960" height="540" alt="Wax" title="Wax">
 
 ## Usage
 
@@ -27,7 +28,6 @@ To use the Hacker theme:
 ## Customizing
 
 ### Configuration variables
-
 Hacker will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
